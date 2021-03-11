@@ -1,0 +1,10 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is BE51-7964
+
+ Directory of C:\Users\bisma\Desktop\banty
+
+11-03-2021  21:49    <DIR>          .
+11-03-2021  21:49    <DIR>          ..
+11-03-2021  21:49                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  156,167,794,688 bytes free
